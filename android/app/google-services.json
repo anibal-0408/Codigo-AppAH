@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780725093759",
+    "firebase_url": "https://aprender-haciendo-app.firebaseio.com",
+    "project_id": "aprender-haciendo-app",
+    "storage_bucket": "aprender-haciendo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780725093759:android:8738adf004345ffa98464a",
+        "android_client_info": {
+          "package_name": "com.aprenderhaciendoapp.aprender_haciendo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780725093759-tljntg5oee84r5ag78vjl1rgbu390jbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aprenderhaciendoapp.aprender_haciendo_app",
+            "certificate_hash": "a45301b3b9b58ca1db42022c1a727faf52d5c6dc"
+          }
+        },
+        {
+          "client_id": "780725093759-8cobnmcr2lvosp0ncpcv57fssoqnakm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFahS_UTu1IAJO5e8no8RZaMlbRf4LJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780725093759-8cobnmcr2lvosp0ncpcv57fssoqnakm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
